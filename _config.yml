@@ -1,0 +1,14 @@
+layout_spectrum: 0.359444864327088
+typography_spectrum: 0.730414972640574
+color:
+  brandStrength: 0.34998351032845676
+  lightness: 0.2607648584526032
+  saturation: 0.5530469608493149
+  rhythmicContrast: 0.374838100746274
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: GoodAtBeer
